@@ -1,1 +1,0 @@
-# For more info -> https://packaging.python.org/en/latest/tutorials/packaging-projects/
